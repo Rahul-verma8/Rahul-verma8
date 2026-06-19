@@ -1,0 +1,234 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Lobster&display=swap');
+body{
+  background:linear-gradient(to left,#25E6D9,#E01F7C);
+  background-repeat:no-repeat;
+  background-position:contain;
+}
+nav ul{
+  display:flex;
+  font-family: "Lobster", sans-serif;
+  font-weight: 400px;
+  font-style: normal;
+  font-size:50px;
+  background-color:#2A83D1;
+  color:white;
+  list-style-type:none;
+  text-align: center;
+}
+nav ul li
+{
+  border-width:2px;
+  border-style:solid;
+  border-color:green;
+  border-radius:12px;
+  padding:0px 20px;
+}
+.ru
+{
+  background-color:linear-gradient(to right,white ,black);
+}
+div
+{
+  border-width:2px;
+  border-style:solid;
+  border-color:black;
+  border-rradius:50%;
+  }
+.re
+ {
+   font-family: cursive;
+   font-size:45px;
+ }
+ .parent1
+ {
+   background-image:url("nalandago.gif");
+   background-repeat:no-repeat;
+   background-size:cover;
+   background-position:fixed;
+   white-space: nowrap;
+   overflow-x:auto;
+   overflow-y:hidden;
+ }
+ .child1
+ {
+    height:300px;
+    width:300px;
+    background-image: url("pro1.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    border-radius:50px;
+    margin:10px;
+    display:inline-block;
+  }
+  .child2
+ {
+    height:300px;
+    width:300px;
+    background-image: url("pro2.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    border-radius:50px;
+    margin:10px;
+    display:inline-block;
+  }
+.child3
+ {
+    height:300px;
+    width:300px;
+    background-image: url("pro3.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    border-radius:50px;
+    margin:10px;
+    display:inline-block;
+  }
+  .child4
+ {
+    height:300px;
+    width:300px;
+    background-image: url("pro4.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    border-radius:50px;
+    margin:10px;
+    display:inline-block;
+  }
+  .child5
+ {
+    height:300px;
+    width:300px;
+    background-image: url("pro5.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    border-radius:50px;
+    margin:10px;
+    display:inline-block;
+  }
+  .parent2
+ {
+   background-image: url("rajgirgo.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   white-space: nowrap;
+   overflow-x:auto;
+   overflow-y:hidden;
+ }
+ .child6
+ {
+    height:300px;
+    width:300px;
+    background-image: url("pro6.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    border-radius:50px;
+    margin:10px;
+    display:inline-block;
+  }
+  .child7
+ {
+    height:300px;
+    width:300px;
+    background-image: url("pro7.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    border-radius:50px;
+    margin:10px;
+    display:inline-block;
+  }
+.child8
+ {
+    height:300px;
+    width:300px;
+    background-image: url("pro8.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    border-radius:50px;
+    margin:10px;
+    display:inline-block;
+  }
+  .child9
+ {
+    height:300px;
+    width:300px;
+    background-image: url("pro9.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    border-radius:50px;
+    margin:10px;
+    display:inline-block;
+  }
+  .child10
+ {
+    height:300px;
+    width:300px;
+    background-image: url("pro10.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    border-radius:50px;
+    margin:10px;
+    display:inline-block;
+  }
+  .parent3
+ {
+   background-image: url("gayago.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   white-space: nowrap;
+   overflow-x:auto;
+   overflow-y:hidden;
+ }
+ .child11
+ {
+    height:300px;
+    width:300px;
+    background-image: url("gaya6.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    border-radius:50px;
+    margin:10px;
+    display:inline-block;
+  }
+  .child12
+ {
+    height:300px;
+    width:300px;
+    background-image: url("gaya2.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    border-radius:50px;
+    margin:10px;
+    display:inline-block;
+  }
+.child13
+ {
+    height:300px;
+    width:300px;
+    background-image: url("gaya3.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    border-radius:50px;
+    margin:10px;
+    display:inline-block;
+  }
+  .child14
+ {
+    height:300px;
+    width:300px;
+    background-image: url("gaya4.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    border-radius:50px;
+    margin:10px;
+    display:inline-block;
+  }
+  .child15
+ {
+    height:300px;
+    width:300px;
+    background-image: url("gaya5.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    border-radius:50px;
+    margin:10px;
+    display:inline-block;
+  }
